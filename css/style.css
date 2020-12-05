@@ -1,0 +1,47 @@
+/*  
+    html tag
+    class
+    id
+*/
+
+*{
+    box-sizing: border-box ;
+}
+
+body{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+}
+
+h3{
+    margin: 0px;
+    font-size: 40px;
+}
+
+.section-one{
+    background-color: #4DBEDE;
+}
+
+.column-one{
+    background-color: #ADB4EA;
+}
+
+.column-tow{
+    background-color: #DF7BDB;
+}
+
+.column{
+    display: inline-block;
+    width: 298px;
+}
+
+.section-three{
+    background-color: #ED77CF;
+}
+
+.padding{
+    padding: 30px;
+    text-align: center;
+    margin: 3px 0px 3px 0px;
+}
